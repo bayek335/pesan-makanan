@@ -1,0 +1,33 @@
+[
+    {
+        "nama": "Justin",
+        "pesanan": [
+            "Geprek",
+            "Geprek Jumbo",
+            "Sosis",
+            "Jeruk"
+        ],
+        "harga": [
+            13000,
+            18000,
+            13000,
+            9500
+        ],
+        "kuantiti": [
+            "2",
+            "3",
+            "5",
+            "5"
+        ],
+        "harga_kali_kuantiti": [
+            26000,
+            54000,
+            65000,
+            47500
+        ],
+        "total_harga": 192500,
+        "pajak": 17325,
+        "diskon": 21175,
+        "subtotal": 188650
+    }
+]
